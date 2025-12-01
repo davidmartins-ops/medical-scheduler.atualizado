@@ -271,13 +271,10 @@ Este projeto foi desenvolvido por:
 | Nome | Função |
 |------|--------|
 | **[David Donizeti Martins]** | Desenvolvedor |
-| **[Bruna Dayanne Simões
-Souza]** | Desenvolvedor |
+| **[Bruna Dayanne Simões Souza]** | Desenvolvedor |
 | **[Felipe Riogi Sacamoto]** | Desenvolvedor |
-| **[Matheus da Silva
-Ferreira Souza]** | Desenvolvedor |
-| **[Pedro Komatsubara
-Carbonaro Cruz]** | Desenvolvedor |
+| **[Matheus da Silva Ferreira Souza]** | Desenvolvedor |
+| **[Pedro Komatsubara Carbonaro Cruz]** | Desenvolvedor |
 
 ---
 
