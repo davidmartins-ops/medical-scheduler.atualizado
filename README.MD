@@ -86,8 +86,8 @@ projeto_agendamento/
 #### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/medical-scheduler.git #NAO EJAM BURROS E MUDEM ISSO AQUI TBM
-cd  DIRETORIO #MUDEM ISSO AQUI NAO ESQUEÇAM 
+git clone https://github.com/davidmartins-ops/medical-scheduler.atualizado.git 
+cd  C:\Users\giorg\OneDrive\Área de Trabalho\sistema_agendamentos
 ```
 
 #### 2. Crie um ambiente virtual (recomendado)
