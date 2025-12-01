@@ -266,13 +266,18 @@ Encontrou um bug? Abra uma **Issue** descrevendo:
 
 ## 👥 Desenvolvedores
 
-Este projeto foi desenvolvido por: COLOQUEM O NOME DE VCS NISSO AQUI NAO
+Este projeto foi desenvolvido por:
 
 | Nome | Função |
 |------|--------|
-| **[Nome do Aluno 1]** | Desenvolvedor |
-| **[Nome do Aluno 2]** | Desenvolvedor |
-| **[Nome do Aluno 3]** | Desenvolvedor |
+| **[David Donizeti Martins]** | Desenvolvedor |
+| **[Bruna Dayanne Simões
+Souza]** | Desenvolvedor |
+| **[Felipe Riogi Sacamoto]** | Desenvolvedor |
+| **[Matheus da Silva
+Ferreira Souza]** | Desenvolvedor |
+| **[Pedro Komatsubara
+Carbonaro Cruz]** | Desenvolvedor |
 
 ---
 
